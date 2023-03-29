@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\practica_todolist_server.props" />
+</Project>
